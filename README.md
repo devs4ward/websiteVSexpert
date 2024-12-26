@@ -1,1 +1,1 @@
-website for IT chatgpt prompt
+link:  https://devs4ward.github.io/websiteVSexpert/
